@@ -1,4 +1,4 @@
-data = open("input_day3.txt") do file
+data = open("../input/day-03.txt") do file
     read(file, String)
 end
 

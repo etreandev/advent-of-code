@@ -1,4 +1,4 @@
-data = open("input_day1.txt") do file
+data = open("../input/day-01.txt") do file
     read(file, String)
 end
 data = split(data, "\r\n")

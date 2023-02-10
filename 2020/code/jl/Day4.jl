@@ -1,5 +1,5 @@
 cd("C:/Users/Lenovo/OneDrive/Documentos/CodeChallenges/AdventOfCode2020")
-data = open("input_day4.txt") do file
+data = open("../input/day-04.txt") do file
     read(file, String)
 end
 

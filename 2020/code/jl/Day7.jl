@@ -9,7 +9,7 @@ faded blue bags contain no other bags.
 dotted black bags contain no other bags.
 """
 
-data = open("input_day7.txt") do file
+data = open("../input/day-07.txt") do file
     read(file, String)
 end
 using Pipe
